@@ -1,0 +1,2213 @@
+GDSII Version: 7
+Modified Time: 
+	2001-04-19 15:51:38
+Accessed Time: 
+	2009-08-01 17:27:37
+LibName: NXP.DB
+UserUnits: 0.001000000
+DBUnits: 0.000000001
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: colinear4
+Path start
+Layer: 33
+Data Type: 0
+Width: 280
+XY: 9
+(1260,0)(1260,380)(0,380)(0,0)(400,0)(400,0)(880,0)(880,0)(1260,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: colinear1
+Path start
+Layer: 33
+Data Type: 0
+Width: 280
+XY: 7
+(380,430)(0,430)(0,-470)(380,-470)(380,50)(380,50)(380,430)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: colinear2
+Path start
+Layer: 33
+Data Type: 0
+Width: 280
+XY: 3
+(0,0)(-200,0)(500,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: colinear3
+Path start
+Layer: 33
+Data Type: 0
+Width: 280
+XY: 5
+(0,0)(400,0)(400,500)(400,0)(800,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: g_right3
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 13
+(0,0)(400,0)(400,250)(100,250)(100,200)(300,200)(300,100)(100,100)(100,300)(400,300)(400,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: g_right4
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 13
+(0,0)(400,0)(400,200)(100,200)(100,200)(300,200)(300,100)(100,100)(100,300)(400,300)(400,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: g_right2
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 13
+(0,0)(400,0)(400,300)(100,300)(100,200)(300,200)(300,100)(100,100)(100,300)(400,300)(400,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: g_right1
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 13
+(0,0)(400,0)(400,200)(100,200)(100,100)(200,100)(200,100)(100,100)(100,300)(400,300)(400,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: g_right
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 11
+(0,0)(400,0)(400,300)(100,300)(300,100)(100,100)(100,300)(400,300)(400,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	1969-12-31 16:00:01
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: meander
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 21
+(0,0)(400,0)(400,300)(200,300)(200,400)(400,400)(400,700)(200,700)(200,800)(500,800)(500,900)(100,900)(100,600)(300,600)(300,500)(100,500)(100,200)(300,200)(300,100)(0,100)(0,0)
+Element end
+Structure end
+Modified Time: 
+	1969-12-31 16:00:01
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: horizontal_t_hole
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 11
+(0,0)(300,0)(300,300)(0,300)(0,200)(200,200)(200,100)(100,100)(100,200)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	1969-12-31 16:00:01
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: horizontal_b_hole
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 11
+(0,0)(300,0)(300,300)(0,300)(0,100)(100,100)(100,200)(200,200)(200,100)(0,100)(0,0)
+Element end
+Structure end
+Modified Time: 
+	1969-12-31 16:00:01
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: horizontal_m_hole
+Boundry start
+Layer: 32
+Data Type: 0
+XY: 13
+(0,0)(300,0)(300,300)(0,300)(0,150)(100,150)(100,200)(200,200)(200,100)(100,100)(100,150)(0,150)(0,0)
+Element end
+Structure end
+Modified Time: 
+	1969-12-31 16:00:01
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: A
+Boundry start
+Layer: 32
+Data Type: 0
+XY: 17
+(300,0)(300,200)(100,200)(100,0)(0,0)(0,450)(50,500)(300,500)(300,400)(100,400)(100,300)(300,300)(300,500)(350,500)(400,450)(400,0)(300,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: e_left
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 13
+(200,400)(0,400)(0,500)(300,500)(300,0)(0,0)(0,100)(200,100)(200,200)(0,200)(0,300)(200,300)(200,400)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ff_right
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 11
+(0,0)(100,0)(100,100)(200,100)(200,200)(100,200)(100,300)(200,300)(300,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: f_right
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 11
+(0,0)(100,0)(100,100)(200,100)(200,200)(100,200)(100,300)(300,300)(300,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ff_left
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 11
+(200,0)(200,100)(100,100)(100,200)(200,200)(200,300)(100,300)(0,400)(300,400)(300,0)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: f_left
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 11
+(200,0)(200,100)(100,100)(100,200)(200,200)(200,300)(0,300)(0,400)(300,400)(300,0)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: triangle
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 4
+(200,100)(500,100)(500,250)(200,100)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: uu_left
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(100,0)(300,0)(300,300)(0,300)(0,200)(200,200)(200,100)(100,100)(100,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: uuu_left
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(0,0)(300,0)(300,300)(100,300)(100,200)(200,200)(200,100)(0,100)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: u_left
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(0,0)(200,0)(200,300)(0,300)(0,200)(100,200)(100,100)(0,100)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: u_right
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(0,0)(200,0)(200,100)(100,100)(100,200)(200,200)(200,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: u_bottom
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(0,0)(100,0)(100,100)(200,100)(200,0)(300,0)(300,200)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: u_top
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(0,0)(300,0)(300,200)(200,200)(200,100)(100,100)(100,200)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: top_right_l2
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 9
+(0,0)(200,0)(200,100)(300,100)(300,200)(400,200)(400,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: top_stair
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 12
+(0,0)(200,0)(200,100)(100,100)(100,200)(300,200)(300,300)(300,400)(400,400)(400,500)(0,500)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: top_right_l
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 7
+(0,100)(200,100)(200,0)(400,0)(400,300)(0,300)(0,100)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: bottom_right_l
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 7
+(0,0)(400,0)(400,100)(200,100)(200,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: bottom_left_l
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 7
+(0,0)(400,0)(400,300)(200,300)(200,100)(0,100)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: top_left_l
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 7
+(0,0)(200,0)(200,100)(400,100)(400,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: polygon_angle1
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 7
+(0,0)(500,0)(500,500)(250,250)(350,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: polygon_angle
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 7
+(0,0)(500,0)(500,500)(250,250)(400,500)(0,500)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: polygon
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 13
+(0,50)(50,0)(350,300)(350,500)(0,500)(0,300)(300,0)(350,50)(50,350)(50,450)(300,450)(300,350)(0,50)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid0
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 5
+(0,0)(500,0)(200,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid1
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 5
+(0,0)(200,0)(500,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid2
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 5
+(0,0)(500,0)(500,300)(300,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid3
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 5
+(300,0)(500,0)(500,300)(0,300)(300,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid4
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,0)(300,200)(200,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid5
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(200,0)(300,0)(500,200)(0,200)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid6
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(300,0)(500,200)(200,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid7
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(200,0)(500,0)(300,200)(0,200)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid8
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(300,0)(300,200)(0,500)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid9
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(300,0)(300,500)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid10
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(300,300)(300,500)(0,500)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid11
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(300,0)(300,500)(0,500)(0,300)(300,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid12
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(200,200)(200,300)(0,500)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid13
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(200,0)(200,500)(0,300)(0,200)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid14
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(200,200)(200,500)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid15
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(200,0)(200,300)(0,500)(0,200)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid16
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(0,0)(200,0)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid17
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(0,0)(200,200)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid18
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(0,0)(200,0)(200,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid19
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(200,0)(200,200)(0,200)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid20
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(0,0)(400,0)(200,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid21
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(0,200)(200,0)(400,200)(0,200)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid22
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(0,0)(200,200)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid23
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 4
+(200,0)(200,400)(0,200)(200,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid24
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(400,0)(400,200)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: ctrapezoid25
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(200,0)(200,200)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: rectangle
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 5
+(0,-140)(500,-140)(500,140)(0,140)(0,-140)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: rectangle_manhattan
+Boundry start
+Layer: 36
+Data Type: 0
+XY: 6
+(250,-140)(500,-140)(500,140)(0,140)(0,-140)(250,-140)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref1_2_3
+Aref start
+Sname: rectangle
+Strans: 0
+Mag: 0.800000000
+Angle: 1.000000000
+Columns: 2 Rows: 3
+XY: 3
+(0,0)(1040,0)(0,900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref9_2_1
+Aref start
+Sname: rectangle
+Columns: 2 Rows: 1
+XY: 3
+(0,0)(-1040,100)(0,900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref9_1_3
+Aref start
+Sname: rectangle
+Columns: 1 Rows: 3
+XY: 3
+(0,0)(1040,0)(-300,-900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path2_2_diagonal
+Path start
+Layer: 32
+Data Type: 0
+PathType: 2
+Width: 280
+XY: 2
+(200,0)(700,140)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path2
+Path start
+Layer: 32
+Data Type: 0
+PathType: 2
+Width: 280
+XY: 2
+(140,500)(360,500)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref2_2_1
+Aref start
+Sname: rectangle
+Columns: 2 Rows: 1
+XY: 3
+(0,0)(1040,0)(0,-900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref3_1_3
+Aref start
+Sname: rectangle
+Columns: 1 Rows: 3
+XY: 3
+(0,0)(-1040,0)(0,900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref_1_1
+Sref start
+Sname: rectangle
+XY: 1
+(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref8_2_3
+Aref start
+Sname: rectangle
+Columns: 2 Rows: 3
+XY: 3
+(0,0)(-1040,100)(300,900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: aref8_2_3_ortho
+Aref start
+Sname: rectangle
+Columns: 2 Rows: 3
+XY: 3
+(0,0)(-1040,0)(0,900)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4
+Path start
+Layer: 34
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 100
+End Extension: 140
+XY: 2
+(100,1000)(360,1000)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_manhattan
+Path start
+Layer: 33
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 140
+End Extension: 100
+XY: 3
+(140,0)(200,0)(400,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_reverse
+Path start
+Layer: 32
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 140
+End Extension: 100
+XY: 2
+(360,0)(100,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_no_end
+Path start
+Layer: 34
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 140
+XY: 2
+(140,1500)(500,1500)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_no_bgn
+Path start
+Layer: 34
+Data Type: 0
+PathType: 4
+Width: 280
+End Extension: 140
+XY: 2
+(0,2000)(360,2000)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path0_2
+Path start
+Layer: 31
+Data Type: 0
+PathType: 0
+Width: 280
+XY: 2
+(600,2000)(1100,2000)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_zero_length
+Path start
+Layer: 34
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 140
+End Extension: 360
+XY: 2
+(140,2500)(140,2500)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path2_zero_length
+Path start
+Layer: 32
+Data Type: 0
+PathType: 2
+Width: 280
+XY: 2
+(140,3000)(140,3000)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path0_zero_length
+Path start
+Layer: 31
+Data Type: 0
+PathType: 0
+Width: 280
+XY: 2
+(600,3000)(600,3000)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path0_3_hor
+Path start
+Layer: 31
+Data Type: 0
+PathType: 0
+Width: 280
+XY: 4
+(0,0)(600,0)(600,600)(1200,600)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path0_3_ver
+Path start
+Layer: 31
+Data Type: 0
+PathType: 0
+Width: 280
+XY: 4
+(140,0)(140,400)(1060,400)(1060,800)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path0_3_dia
+Path start
+Layer: 31
+Data Type: 0
+PathType: 0
+Width: 280
+XY: 4
+(0,0)(300,0)(900,600)(1200,600)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path2_3_hor
+Path start
+Layer: 32
+Data Type: 0
+PathType: 2
+Width: 280
+XY: 4
+(140,0)(600,0)(600,600)(1060,600)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path2_3_ver
+Path start
+Layer: 32
+Data Type: 0
+PathType: 2
+Width: 280
+XY: 4
+(140,140)(140,400)(1060,400)(1060,660)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_3_hor
+Path start
+Layer: 34
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 100
+End Extension: 200
+XY: 4
+(100,0)(600,0)(600,600)(1000,600)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: path4_3_ver
+Path start
+Layer: 34
+Data Type: 0
+PathType: 4
+Width: 280
+Begin Extension: 100
+End Extension: 200
+XY: 4
+(140,100)(140,400)(1060,400)(1060,600)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: horizontal
+Boundry start
+Layer: 31
+Data Type: 0
+XY: 7
+(0,0)(500,0)(500,400)(300,400)(300,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: vertical
+Boundry start
+Layer: 32
+Data Type: 0
+XY: 7
+(0,0)(0,300)(300,300)(300,400)(500,400)(500,0)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: manhattan
+Boundry start
+Layer: 33
+Data Type: 0
+XY: 8
+(0,0)(500,0)(500,400)(300,400)(300,300)(100,300)(0,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: octangular
+Boundry start
+Layer: 34
+Data Type: 0
+XY: 6
+(0,0)(500,0)(500,400)(300,400)(300,300)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vap
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,100)(500,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vbp
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,0)(500,400)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vabp
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,100)(500,400)(0,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vp
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,100)(500,200)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_van
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,100)(500,0)(500,400)(0,400)(0,100)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vbn
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,0)(500,200)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vabn
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,100)(500,0)(500,200)(0,400)(0,100)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_vn
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,100)(500,0)(500,400)(0,200)(0,100)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_hap
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,0)(500,400)(300,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_hbp
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(400,0)(500,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_habp
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(400,0)(500,400)(300,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_hp
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,0)(400,400)(300,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_han
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(300,0)(500,0)(500,400)(0,400)(300,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_hbn
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(0,0)(500,0)(400,400)(0,400)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_habn
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(300,0)(500,0)(400,400)(0,400)(300,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: trapezoid_hn
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 5
+(300,0)(400,0)(500,400)(0,400)(300,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: any_angle
+Boundry start
+Layer: 35
+Data Type: 0
+XY: 6
+(0,0)(500,0)(500,400)(300,400)(300,200)(0,0)
+Element end
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: empty
+Structure end
+Modified Time: 
+	2000-05-02 15:40:56
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: test
+Text start
+Layer: 30
+Text Type: 0
+Font: 0
+Valign: 4
+Halign: 1
+Strans: 0
+Mag: 1.000000000
+Angle: 0.000000000
+XY: 1
+(0,0)
+String: TEXT
+Element end
+Sref start
+Sname: rectangle
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,0)
+Element end
+Sref start
+Sname: rectangle_manhattan
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,0)
+Element end
+Sref start
+Sname: path2_2_diagonal
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(500,500)
+Element end
+Sref start
+Sname: path2
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,500)
+Element end
+Sref start
+Sname: path4
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,500)
+Element end
+Sref start
+Sname: path4_manhattan
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,2500)
+Element end
+Sref start
+Sname: path4_reverse
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,2000)
+Element end
+Sref start
+Sname: path4_no_end
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,500)
+Element end
+Sref start
+Sname: path4_no_bgn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,500)
+Element end
+Sref start
+Sname: path0_2
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(-600,-1500)
+Element end
+Sref start
+Sname: path4_zero_length
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,-1000)
+Element end
+Sref start
+Sname: path2_zero_length
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,-2000)
+Element end
+Sref start
+Sname: path0_zero_length
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,-3000)
+Element end
+Sref start
+Sname: path0_3_hor
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1500,0)
+Element end
+Sref start
+Sname: path0_3_ver
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1500,1000)
+Element end
+Sref start
+Sname: path0_3_dia
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1500,2140)
+Element end
+Sref start
+Sname: path2_3_hor
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3000,0)
+Element end
+Sref start
+Sname: path2_3_ver
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3000,1000)
+Element end
+Sref start
+Sname: path4_3_hor
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,0)
+Element end
+Sref start
+Sname: path4_3_ver
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,1000)
+Element end
+Sref start
+Sname: aref1_2_3
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,3200)
+Element end
+Sref start
+Sname: aref2_2_1
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1200,3200)
+Element end
+Sref start
+Sname: aref3_1_3
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2400,3200)
+Element end
+Sref start
+Sname: aref8_2_3_ortho
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(520,4200)
+Element end
+Sref start
+Sname: aref9_2_1
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1720,4200)
+Element end
+Sref start
+Sname: aref9_1_3
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2600,4800)
+Element end
+Sref start
+Sname: aref_1_1
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3100,3200)
+Element end
+Sref start
+Sname: aref8_2_3
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3800,4150)
+Element end
+Sref start
+Sname: horizontal
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3800,3050)
+Element end
+Sref start
+Sname: vertical
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,3050)
+Element end
+Sref start
+Sname: manhattan
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5200,3050)
+Element end
+Sref start
+Sname: octangular
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3800,3550)
+Element end
+Sref start
+Sname: any_angle
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,3550)
+Element end
+Sref start
+Sname: trapezoid_vap
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2900,5000)
+Element end
+Sref start
+Sname: trapezoid_vbp
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3600,5000)
+Element end
+Sref start
+Sname: trapezoid_vabp
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4300,5000)
+Element end
+Sref start
+Sname: trapezoid_vp
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5000,5000)
+Element end
+Sref start
+Sname: trapezoid_van
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2900,5500)
+Element end
+Sref start
+Sname: trapezoid_vbn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3600,5500)
+Element end
+Sref start
+Sname: trapezoid_vabn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4300,5500)
+Element end
+Sref start
+Sname: trapezoid_vn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5000,5500)
+Element end
+Sref start
+Sname: trapezoid_hap
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,5000)
+Element end
+Sref start
+Sname: trapezoid_hbp
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,5000)
+Element end
+Sref start
+Sname: trapezoid_habp
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1400,5000)
+Element end
+Sref start
+Sname: trapezoid_hp
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2100,5000)
+Element end
+Sref start
+Sname: trapezoid_han
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,5500)
+Element end
+Sref start
+Sname: trapezoid_hbn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,5500)
+Element end
+Sref start
+Sname: trapezoid_habn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1400,5500)
+Element end
+Sref start
+Sname: trapezoid_hn
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2100,5500)
+Element end
+Sref start
+Sname: ctrapezoid0
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,6100)
+Element end
+Sref start
+Sname: ctrapezoid1
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,6100)
+Element end
+Sref start
+Sname: ctrapezoid2
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1400,6100)
+Element end
+Sref start
+Sname: ctrapezoid3
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2100,6100)
+Element end
+Sref start
+Sname: ctrapezoid4
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,6500)
+Element end
+Sref start
+Sname: ctrapezoid5
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(700,6500)
+Element end
+Sref start
+Sname: ctrapezoid6
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1400,6500)
+Element end
+Sref start
+Sname: ctrapezoid7
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2100,6500)
+Element end
+Sref start
+Sname: ctrapezoid8
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2800,6100)
+Element end
+Sref start
+Sname: ctrapezoid9
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3200,6100)
+Element end
+Sref start
+Sname: ctrapezoid10
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3600,6100)
+Element end
+Sref start
+Sname: ctrapezoid11
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4000,6100)
+Element end
+Sref start
+Sname: ctrapezoid12
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,6100)
+Element end
+Sref start
+Sname: ctrapezoid13
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4800,6100)
+Element end
+Sref start
+Sname: ctrapezoid14
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5100,6100)
+Element end
+Sref start
+Sname: ctrapezoid15
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5400,6100)
+Element end
+Sref start
+Sname: ctrapezoid16
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,6800)
+Element end
+Sref start
+Sname: ctrapezoid17
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(300,6800)
+Element end
+Sref start
+Sname: ctrapezoid18
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(600,6800)
+Element end
+Sref start
+Sname: ctrapezoid19
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(900,6800)
+Element end
+Sref start
+Sname: ctrapezoid20
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1200,6800)
+Element end
+Sref start
+Sname: ctrapezoid21
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1800,6800)
+Element end
+Sref start
+Sname: ctrapezoid22
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2400,6800)
+Element end
+Sref start
+Sname: ctrapezoid23
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2800,6800)
+Element end
+Sref start
+Sname: ctrapezoid24
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3200,6800)
+Element end
+Sref start
+Sname: ctrapezoid25
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3800,6800)
+Element end
+Sref start
+Sname: empty
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4000,6800)
+Element end
+Sref start
+Sname: polygon
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3000,2000)
+Element end
+Sref start
+Sname: polygon_angle
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3500,2000)
+Element end
+Sref start
+Sname: polygon_angle1
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4200,2000)
+Element end
+Sref start
+Sname: bottom_left_l
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4900,2400)
+Element end
+Sref start
+Sname: bottom_right_l
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5400,2400)
+Element end
+Sref start
+Sname: top_left_l
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4900,2000)
+Element end
+Sref start
+Sname: top_right_l
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5400,2000)
+Element end
+Sref start
+Sname: top_right_l2
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5200,3550)
+Element end
+Sref start
+Sname: top_stair
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5200,4000)
+Element end
+Sref start
+Sname: u_left
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3000,2600)
+Element end
+Sref start
+Sname: u_right
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3300,2600)
+Element end
+Sref start
+Sname: u_bottom
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3700,2600)
+Element end
+Sref start
+Sname: u_top
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4200,2600)
+Element end
+Sref start
+Sname: triangle
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5000,4500)
+Element end
+Sref start
+Sname: f_left
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4100,6800)
+Element end
+Sref start
+Sname: f_right
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,6800)
+Element end
+Sref start
+Sname: ff_left
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4900,6800)
+Element end
+Sref start
+Sname: ff_right
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5300,6800)
+Element end
+Sref start
+Sname: uu_left
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4100,7300)
+Element end
+Sref start
+Sname: uuu_left
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4500,7300)
+Element end
+Sref start
+Sname: e_left
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3700,7100)
+Element end
+Sref start
+Sname: A
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(3200,7100)
+Element end
+Sref start
+Sname: horizontal_b_hole
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(4900,7300)
+Element end
+Sref start
+Sname: horizontal_t_hole
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(5300,7300)
+Element end
+Sref start
+Sname: meander
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(0,7100)
+Element end
+Sref start
+Sname: horizontal_m_hole
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(600,7100)
+Element end
+Sref start
+Sname: g_right
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1100,7100)
+Element end
+Sref start
+Sname: g_right1
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1600,7100)
+Element end
+Sref start
+Sname: g_right2
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1100,7600)
+Element end
+Sref start
+Sname: g_right3
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(1600,7600)
+Element end
+Sref start
+Sname: g_right4
+Strans: 0
+Angle: 0.000000000
+XY: 1
+(2100,7600)
+Property Number: 102
+Prop Value: ,I0
+Element end
+Sref start
+Sname: g_right4
+Strans: 0
+Mag: 0.500000000
+Angle: 0.000000000
+XY: 1
+(2600,7600)
+Property Number: 102
+Prop Value: ,I0
+Element end
+Sref start
+Sname: colinear1
+XY: 1
+(1630,-1000)
+Element end
+Sref start
+Sname: colinear2
+XY: 1
+(3500,-1000)
+Element end
+Sref start
+Sname: colinear3
+XY: 1
+(4500,-1000)
+Element end
+Sref start
+Sname: colinear4
+XY: 1
+(0,-1000)
+Element end
+Structure end
+Modified Time: 
+	2003-03-06 15:13:00
+Accessed Time: 
+	2009-08-01 17:27:37
+StrName: all
+Sref start
+Sname: test
+Strans: 0
+Mag: 1.000000000
+Angle: 0.000000000
+XY: 1
+(0,0)
+Element end
+Sref start
+Sname: test
+Strans: 0
+Mag: 0.700000000
+Angle: 270.000000000
+XY: 1
+(7000,3500)
+Element end
+Structure end
+Lib end
